@@ -1,2 +1,0 @@
-# darimac-printers-backend
-Java
